@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Tje09IAib4r1WWup/MH5Kc+z+vzbrGNrGKnC8NVKq2SLxpzQrgCNs2S4HZLjpIxFRf3NUfefcGm6LK4HR5XaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxi\\Desktop\\Olea.Maximiliano.23\\Olea.Maximiliano.23\\ParcialLaboratorio\\ParcialLaboratorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Maxi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Maxi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Maxi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
